@@ -12,6 +12,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+import { useVideoInteractions } from "@/hooks/useVideoInteractions";
 
 export default function ShortMaxWatchPage() {
   const params = useParams<{ shortPlayId: string }>();
