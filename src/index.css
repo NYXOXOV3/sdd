@@ -6,7 +6,7 @@
 
 @layer base {
   :root {
-    /* 🌙 Dewi Nyx palette: deep night with violet highlights */
+    
     --background: 240 10% 4%;           /* almost black midnight */
     --foreground: 0 0% 96%;            /* soft off‑white */
 
